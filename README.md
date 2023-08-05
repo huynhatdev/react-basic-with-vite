@@ -1,4 +1,4 @@
-# react-basic
+# react-basic-with-vite
 
 This is a repository abou reactjs. I will show you how to make a reactjs page
 
